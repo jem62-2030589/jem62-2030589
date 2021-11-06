@@ -31,7 +31,7 @@ ul, h1, h2, h3, h4, p, figure {
 
 body {
   font-family: 'Open Sans', Arial, sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   overflow-x: hidden;
   padding-left: 15px;
   padding-right: 15px;
@@ -49,14 +49,14 @@ a:hover { text-decoration: none; }
 button:focus { outline: none; }
 p { 
   color: #666;
-  line-height: 1.7; 
-  margin-bottom: 35px;
+  line-height: 3; 
+  margin-bottom: 30px;
 }
 
 h1, h2, h3, h4, h5, h6 { color: #333; }
 
 .container-fluid {
-    max-width: 1210px;
+    max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -85,7 +85,7 @@ h1, h2, h3, h4, h5, h6 { color: #333; }
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    height: 210px;
+    height: 200px;
 }
 
 .tm-site-name-container {
@@ -105,14 +105,14 @@ h1, h2, h3, h4, h5, h6 { color: #333; }
   justify-content: flex-end;
   width: 68.595%;
   height: 100%;
-  padding: 20px;
+  padding: 19px;
 }
 
 .tm-nav-item {
   list-style: none;
   display: inline-block;
-  width: 145px;
-  height: 145px;
+  width: 140px;
+  height: 140px;
   margin-right: 15px;
   background-color: white;
 }
